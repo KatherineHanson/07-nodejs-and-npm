@@ -1,0 +1,29 @@
+{
+  "name": "starter-code",
+  "version": "1.0.0",
+  "description": "lab 7 package.json file",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KatherineHanson/07-nodejs-and-npm.git"
+  },
+  "keywords": [
+    "lab-7",
+    "json",
+    "node",
+    "npm"
+  ],
+  "author": "KatherineH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KatherineHanson/07-nodejs-and-npm/issues"
+  },
+  "homepage": "https://github.com/KatherineHanson/07-nodejs-and-npm#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
